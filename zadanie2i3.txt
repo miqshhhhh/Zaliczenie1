@@ -1,0 +1,11 @@
+1.
+>git status
+>git add -A
+>git commit -m "nazwa wersji"
+>git remote add origin *link*
+>git push
+
+2.
+a =?
+b = Select product from CoffeShop where Customer_ref = "thompson_86" OR Customer_ref="mark taylor_113";
+c = Select City from CoffeShop where Product = "Cappucino" or Product = "Flat White";
